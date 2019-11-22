@@ -1,14 +1,17 @@
-# codingchallenge - Screenshots
+# Flutter Coding Challenge 
 
 ### Screen Record
 
 <img src="./screenshots/codingchallenge.gif" width="500px" />
 <br />
 
-### Home Screen
+### Screenshots
+
 <img src="./screenshots/Screenshot_01.png" width="250px" />
 
 <br />
+
+### Home Screen
 
 <img src="./screenshots/Screenshot_02.png" width="250px" />
 
