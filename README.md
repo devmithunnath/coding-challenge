@@ -7,7 +7,7 @@
 
 <br />
 
-<img src="./screenshots/Screenshot_05.png" width="250px" />
+<img src="./screenshots/Screenshot_02.png" width="250px" />
 
 ### User details screen
 <img src="./screenshots/Screenshot_03.png" width="250px" />
